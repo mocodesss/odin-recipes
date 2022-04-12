@@ -3,6 +3,10 @@
 }
 
 img {
-  max-height: 500px;
+  max-height: 350px;
   width: auto;
+}
+
+body {
+  background-color: blanchedalmond;
 }
